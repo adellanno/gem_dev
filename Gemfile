@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-gem 'simple-messaging', :path => "../simple-messaging/"
+gem 'rails-messenger', :path => "../rails-messenger/"
 
 gem 'devise'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
